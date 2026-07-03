@@ -1,0 +1,5 @@
+Flask
+easyocr
+pandas
+openpyxl
+opencv-python-headless
